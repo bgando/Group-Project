@@ -1,4 +1,4 @@
-Group-Project
+The Chase
 =============
 
-Repository to manage the codepath group project
+Native Android, geo-location based scavenger hunt game that you can play with your friends. 
